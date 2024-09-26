@@ -1,0 +1,4 @@
+1;ASR-121;KIA;Sportage;5;26000;Negro
+2;FAD-124;Toyota;Rav;5;26000;Acero
+3;QWE-234;Nissan;Rogue;5;30000;Gris
+7;JKL-567;Honda;Forester;5;29000;Blanco
